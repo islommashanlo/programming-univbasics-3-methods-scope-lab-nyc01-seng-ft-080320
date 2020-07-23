@@ -1,7 +1,5 @@
 def mario
-  
-  puts status
-  status
+
 end
 
 def toadstool
